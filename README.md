@@ -21,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mihirpatel5177&theme=dark)](https://git.io/streak-stats)
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
